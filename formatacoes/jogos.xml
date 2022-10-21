@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<games>
+	<game>
+		<nomejogo>Counter Strike Global Offensive</nomejogo>
+		<link>https://www.youtube.com/watch?v=edYCtaNueQY</link>
+		<plataforma>PC</plataforma>
+		<preco>10.99€</preco>
+		<tipo>FPS</tipo>
+		<fotos>imagens/foto1.jpg</fotos>
+	</game>
+
+
+
+	<game>
+		<nomejogo>Need For Speed - Hut Pursuit</nomejogo>
+		<link>https://www.youtube.com/watch?v=D6ouHWP0KrY</link>
+		<plataforma>PC</plataforma>
+		<preco>14.99€</preco>
+		<tipo>Corrida</tipo>
+		<fotos>imagens/foto2.jpg</fotos>
+	</game>
+
+
+
+	<game>
+		<nomejogo>Led 4 Dead 2</nomejogo>
+		<link>https://www.youtube.com/watch?v=9XIle_kLHKU</link>
+		<plataforma>PS4</plataforma>
+		<preco>13.99€</preco>
+		<tipo>Terror</tipo>
+		<fotos>imagens/foto3.jpg</fotos>
+	</game>
+
+
+
+	<game>
+		<nomejogo>Mirror's Edge</nomejogo>
+		<link>https://www.youtube.com/watch?v=2N1TJP1cxmo</link>
+		<plataforma>PS4</plataforma>
+		<preco>9.99€</preco>
+		<tipo>Parkour</tipo>
+		<fotos>imagens/foto4.jpg</fotos>
+	</game>
+
+
+
+	<game>
+		<nomejogo>Mirror's Edge</nomejogo>
+		<link>https://www.youtube.com/watch?v=2N1TJP1cxmo</link>
+		<plataforma>XBOX</plataforma>
+		<preco>39.99€</preco>
+		<tipo>Parkour</tipo>
+		<fotos>imagens/foto4.jpg</fotos>
+	</game>
+
+
+
+	<game>
+		<nomejogo>Need For Speed - Hut Pursuit</nomejogo>
+		<link>https://www.youtube.com/watch?v=D6ouHWP0KrY</link>
+		<plataforma>PS5</plataforma>
+		<preco>64.99€</preco>
+		<tipo>Corrida</tipo>
+		<fotos>imagens/foto2.jpg</fotos>
+	</game>
+
+
+
+	<game>
+		<nomejogo>Led 4 Dead 2</nomejogo>
+		<link>https://www.youtube.com/watch?v=9XIle_kLHKU</link>
+		<plataforma>PS5</plataforma>
+		<preco>53.99€</preco>
+		<tipo>Terror</tipo>
+		<fotos>imagens/foto3.jpg</fotos>
+	</game>
+</games>
+
+
+
